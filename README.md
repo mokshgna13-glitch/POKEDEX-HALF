@@ -3,3 +3,7 @@ THIS IS A POKEDEX FROM POKEMON BUT IT IS NOT FULL MAYBE - NOT MAYBE FOR SURE ITS
 
 CLICK THIS LINK AND GET IT TO USE IT
 
+https://mokshgna13-glitch.github.io/POKEDEX-HALF/pokedex.html
+
+<img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/436ba4f9-a63e-4895-afc8-e191cc8db382" />
+
