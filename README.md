@@ -7,11 +7,9 @@ https://mokshgna13-glitch.github.io/POKEDEX-HALF/pokedex.html
 
 <img width="1366" height="636" alt="image" src="https://github.com/user-attachments/assets/436ba4f9-a63e-4895-afc8-e191cc8db382" />
 
-It has a lot of cool features like a :- a bunch of pokemon names and pics
-                                         a lot of info on each pokemon 
-
-                                         fun for a POKEMON FAN 
-
-                                         it was made using HTML,CSS AND JS and man it was tough but enjoying and acknowledgeing
+It has a lot of cool features like a :- 1.a bunch of pokemon names and pics
+                                        2.a lot of info on each pokemon 
+                                        3.fun for a POKEMON FAN 
+                                        4.it was made using HTML,CSS AND JS and man it was tough but enjoying and acknowledgeing
 
 I made using HTML,CSS AND JS and it was easy to build and Also i made this as when i was small i always wanted a web pokedex made by me even if its small with less pokemons 300 for my childself is a lot and enjoyfull.
